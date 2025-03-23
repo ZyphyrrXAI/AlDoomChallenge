@@ -1,0 +1,13 @@
+.challenge-btn {
+    background-color: red; /* Makes button red */
+    color: white; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.challenge-btn:hover {
+    background-color: darkred; /* Darker red when hovered */
+}
